@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_network_connectivity_check/Cubit/internet_cubic.dart';
+import 'package:flutter_bloc_network_connectivity_check/Cubit/internet_cubit.dart';
 import 'package:flutter_bloc_network_connectivity_check/Cubit/internet_state.dart';
 
 class InternetCheckCubit extends StatelessWidget {
